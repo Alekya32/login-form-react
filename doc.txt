@@ -1,0 +1,12 @@
+1. Create a folder login-form-react
+2.git init
+3.create new repository 
+4.git clone https://github.com/Alekya32/login-form-react.git
+5.and the repository folder path in local
+6.npm init
+7.Place all dependdencies in package.json 
+8.npm install or manually install all dependencies and devdependencies required
+9.Create a .gitignore file and include node_modules and dist folder 
+10.create webpack.config.js and .babelrc file
+11.npm install --save react-bootstrax.ht
+12.Add ref link in index.html
